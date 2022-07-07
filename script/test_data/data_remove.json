@@ -1,0 +1,8 @@
+{
+    "key": "value",
+    "remove_target1": "value",
+    "object": {
+        "key": "value",
+        "remove_target2": "value"
+    }
+}
